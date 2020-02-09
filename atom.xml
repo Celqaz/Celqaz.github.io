@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">飞越疯人院</title>
     <subtitle type="html">达达里昂的人生备份</subtitle>
-    <updated>2020-02-09T20:56:04+08:00</updated>
+    <updated>2020-02-09T22:10:10+08:00</updated>
     <id>https://celqaz.github.io/</id>
     <link rel="alternate" type="text/html" href="https://celqaz.github.io/" />
     <link rel="self" type="application/atom+xml" href="https://celqaz.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">從新教帝國到世界帝國，從喪失美洲到縱橫七海</title>
             <link rel="alternate" type="text/html" href="https://celqaz.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/" />
             <id>https://celqaz.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</id>
-            <updated>2020-02-09T20:43:32+08:00</updated>
+            <updated>2020-02-09T22:00:49+08:00</updated>
             <published>2020-02-09T00:02:18+08:00</published>
             <author>
                     <name>达达里昂</name>
@@ -29,10 +29,10 @@
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     
-    <summary type="html"><![CDATA[從新教帝國到世界帝國，從喪失美洲到縱橫七海 「大英帝國」其實是跨越兩種不同面相，經過解……]]></summary>
+    <summary type="html"><![CDATA[從新教帝國到世界帝國，從喪失美洲到縱橫七海 大英帝國其實是跨越兩種不同面相，經過解體再……]]></summary>
             
                 <content type="html"><![CDATA[<h1 id="從新教帝國到世界帝國從喪失美洲到縱橫七海">從新教帝國到世界帝國，從喪失美洲到縱橫七海</h1>
-<p>「大英帝國」其實是跨越兩種不同面相，經過解體再重組的「兩個帝國」？</p>
+<p>大英帝國其實是跨越兩種不同面相，經過解體再重組的兩個帝國？</p>
 <p>移民、奴隸解放、百貨公司、商品與人的流動……
 從社會生活史的「柔性帝國」角度，描繪不為人知的「帝國側臉」，</p>
 <p>$f(x)=x+1$</p>
@@ -74,7 +74,41 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://celqaz.github.io/categories/%E5%8E%86%E5%8F%B2/" term="历史" label="历史" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://celqaz.github.io/categories/%E6%96%87%E5%8C%96/" term="文化" label="文化" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://celqaz.github.io/tags/%E5%8E%86%E5%8F%B2/" term="历史" label="历史" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://celqaz.github.io/tags/%E8%8B%B1%E5%9B%BD/" term="英国" label="英国" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://celqaz.github.io/tags/%E5%95%86%E4%B8%9A%E7%A4%BE%E4%BC%9A/" term="商业社会" label="商业社会" />
+                            
+                        
                     
                 
             
@@ -84,7 +118,7 @@
             <title type="text">First Post</title>
             <link rel="alternate" type="text/html" href="https://celqaz.github.io/posts/first-post/" />
             <id>https://celqaz.github.io/posts/first-post/</id>
-            <updated>2020-02-08T23:59:41+08:00</updated>
+            <updated>2020-02-09T21:53:41+08:00</updated>
             <published>2020-02-08T21:23:03+08:00</published>
             <author>
                     <name>达达里昂</name>
@@ -102,6 +136,14 @@
             
             
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://celqaz.github.io/categories/%E5%8E%86%E5%8F%B2/" term="历史" label="历史" />
+                            
+                        
                     
                 
                     
